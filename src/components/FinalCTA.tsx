@@ -48,7 +48,7 @@ export function FinalCTA({ onCTAClick }: FinalCTAProps) {
         </Button>
 
         <p className="text-blue-100 mt-6 text-sm">
-          Join 100+ Milwaukee businesses already dominating their local search results
+          Join 100+ businesses already dominating their local search results
         </p>
       </div>
     </section>

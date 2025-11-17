@@ -4,7 +4,7 @@ import { Star, Quote } from 'lucide-react';
 export function Testimonials() {
   const testimonials = [
     {
-      business: 'Milwaukee Plumbing Pro',
+      business: 'Local Plumbing Pro',
       location: 'West Allis, WI',
       result: 'Jumped from #12 to #2 in 45 days',
       quote:
@@ -14,7 +14,7 @@ export function Testimonials() {
     },
     {
       business: 'Lakefront Dental Care',
-      location: 'Milwaukee, WI',
+      location: 'Local Area, WI',
       result: 'Reached #1 position in 60 days',
       quote:
         'As a new practice, we needed visibility fast. MKE Results got us to the top spot on Google Maps. We\'re now booked out three weeks in advance.',

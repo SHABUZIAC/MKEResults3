@@ -31,7 +31,7 @@ export function ProblemSection() {
             Why Your Business Isn't Getting Found
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            The harsh reality of local search in 2024
+            The harsh reality of local search in 2025
           </p>
         </div>
 

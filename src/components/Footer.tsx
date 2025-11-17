@@ -13,7 +13,7 @@ export function Footer() {
               <span className="text-xl font-bold text-white">MKE Results</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              Helping Milwaukee businesses dominate Google Maps and grow their
+              Helping local businesses dominate Google Maps and grow their
               local presence.
             </p>
           </div>
@@ -59,7 +59,7 @@ export function Footer() {
                   hello@mkeresults.com
                 </a>
               </li>
-              <li className="text-gray-400">Milwaukee, WI</li>
+              <li className="text-gray-400">Wisconsin, USA</li>
             </ul>
           </div>
         </div>

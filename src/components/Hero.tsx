@@ -17,7 +17,7 @@ export function Hero({ onCTAClick }: HeroProps) {
               Without Paying for Ads
             </h1>
             <p className="text-xl text-gray-600 leading-relaxed">
-              We help local Milwaukee businesses dominate Google search and get
+              We help local businesses dominate Google search and get
               found by customers who are ready to buy. Stop losing leads to your
               competitors.
             </p>
