@@ -3,7 +3,6 @@ import { Hero } from './components/Hero';
 import { ProblemSection } from './components/ProblemSection';
 import { ProcessSection } from './components/ProcessSection';
 import { BenefitsSection } from './components/BenefitsSection';
-import { Testimonials } from './components/Testimonials';
 import { Pricing } from './components/Pricing';
 import { FAQ } from './components/FAQ';
 import { FinalCTA } from './components/FinalCTA';
@@ -20,7 +19,6 @@ function App() {
       <ProblemSection />
       <ProcessSection />
       <BenefitsSection />
-      <Testimonials />
       <Pricing onCTAClick={() => setIsContactFormOpen(true)} />
       <FAQ />
       <FinalCTA onCTAClick={() => setIsContactFormOpen(true)} />
