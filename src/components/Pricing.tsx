@@ -31,7 +31,7 @@ export function Pricing({ onCTAClick }: PricingProps) {
         </div>
 
         <div className="max-w-2xl mx-auto">
-          <Card className="border-4 border-[#2563EB] shadow-2xl relative overflow-hidden">
+          <Card className="border-4 border-[#2563EB] shadow-2xl relative overflow-hidden bg-gradient-to-br from-white to-blue-50/40">
             <div className="absolute top-0 right-0 bg-[#F97316] text-white px-6 py-2 text-sm font-bold transform rotate-12 translate-x-8 -translate-y-2">
               BEST VALUE
             </div>

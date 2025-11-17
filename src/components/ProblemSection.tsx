@@ -39,7 +39,7 @@ export function ProblemSection() {
           {problems.map((problem, index) => (
             <Card
               key={index}
-              className="border-2 border-gray-100 hover:border-[#2563EB] hover:shadow-xl transition-all duration-300"
+              className="border-2 border-gray-100 hover:border-[#2563EB] hover:shadow-xl transition-all duration-300 bg-gradient-to-br from-white to-gray-50/50"
             >
               <CardContent className="p-8">
                 <div className="w-16 h-16 bg-red-100 rounded-xl flex items-center justify-center mb-6">

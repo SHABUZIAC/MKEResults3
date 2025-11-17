@@ -42,6 +42,7 @@ export function ProcessSection() {
           {steps.map((step, index) => (
             <div key={index} className="relative">
               <Card className="border-2 border-gray-100 hover:border-[#2563EB] hover:shadow-xl transition-all duration-300 h-full">
+              <Card className="border-2 border-gray-100 hover:border-[#2563EB] hover:shadow-xl transition-all duration-300 h-full bg-gradient-to-br from-white to-blue-50/30">
                 <CardContent className="p-8">
                   <div className="flex items-start gap-4 mb-6">
                     <div className="w-16 h-16 bg-[#2563EB] rounded-xl flex items-center justify-center flex-shrink-0">

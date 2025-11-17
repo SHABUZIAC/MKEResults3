@@ -45,7 +45,7 @@ export function BenefitsSection() {
           {benefits.map((benefit, index) => (
             <Card
               key={index}
-              className="border-2 border-gray-100 hover:border-[#F97316] hover:shadow-xl transition-all duration-300 group"
+              className="border-2 border-gray-100 hover:border-[#F97316] hover:shadow-xl transition-all duration-300 group bg-gradient-to-br from-white to-orange-50/30"
             >
               <CardContent className="p-8 text-center">
                 <div className="w-16 h-16 bg-orange-100 rounded-xl flex items-center justify-center mb-6 mx-auto group-hover:bg-[#F97316] transition-colors">

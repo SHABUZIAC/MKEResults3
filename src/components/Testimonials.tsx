@@ -48,7 +48,7 @@ export function Testimonials() {
           {testimonials.map((testimonial, index) => (
             <Card
               key={index}
-              className="border-2 border-gray-100 hover:shadow-xl transition-all duration-300 relative overflow-hidden"
+              className="border-2 border-gray-100 hover:shadow-xl transition-all duration-300 relative overflow-hidden bg-gradient-to-br from-white to-gray-50/40"
             >
               <CardContent className="p-8">
                 <div className="absolute top-4 right-4 opacity-10">
