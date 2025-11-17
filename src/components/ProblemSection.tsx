@@ -1,5 +1,5 @@
 import { Card, CardContent } from '@/components/ui/card';
-import { AlertCircle, TrendingDown, Users } from 'lucide-react';
+import { CircleAlert as AlertCircle, TrendingDown, Users } from 'lucide-react';
 
 export function ProblemSection() {
   const problems = [
