@@ -41,7 +41,6 @@ export function ProcessSection() {
         <div className="grid md:grid-cols-3 gap-8">
           {steps.map((step, index) => (
             <div key={index} className="relative">
-              <Card className="border-2 border-gray-100 hover:border-[#2563EB] hover:shadow-xl transition-all duration-300 h-full">
               <Card className="border-2 border-gray-100 hover:border-[#2563EB] hover:shadow-xl transition-all duration-300 h-full bg-gradient-to-br from-white to-blue-50/30">
                 <CardContent className="p-8">
                   <div className="flex items-start gap-4 mb-6">
